@@ -9,7 +9,7 @@
       "MID": "MID20353",
       "MD": "RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio Dongle + Antenna kit\r\n\r\n->RTL-SDR Blog V4 with upgraded R828D tuner & 1 PPM TCXO\r\n->Built-in HF upconverter for improved signal reception\r\n->Bias tee circuit & notch filter for reduced interference\r\n\r\n-Wide frequency range: 500 kHz to 1.766 GHz (no gaps)\r\n-High-accuracy 1 PPM TCXO for stable tuning\r\n-Based on RTL2832U chipset and R828D tuner\r\n-Aluminum enclosure for enhanced shielding and durability\r\n-Direct sampling mode for HF (500 kHz – 30 MHz) reception\r\n-Compatible with popular SDR software (SDR#, HDSDR, CubicSDR, etc.)\r\n-Bias-T power output for active antennas and LNAs\r\n-USB-powered and plug-and-play support\r\n-Compact and portable design",
       "MT": "Electronic Material",
-      "MQNT": 1,
+      "MQNT": 0,
       "MCost": 7349.0,
       "MQATG": "#CLASS_0",
       "ML": "",
